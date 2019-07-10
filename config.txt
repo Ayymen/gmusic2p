@@ -1,6 +1,6 @@
 token=NTY3NDkyMzk4NjU0MTYwOTI0.XQkTSA.tGXNVAlKjA1tgRLR4rx9AbZFnkg
 owner=455061501934436373
 prefix=2
-game=type | 2play
+game=Dz Team 2019
 stayinchannel=true
 songinstatus=true
